@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/files/assets/assets.iml" filepath="$PROJECT_DIR$/files/assets/assets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/files/assets/sass/base/base.iml" filepath="$PROJECT_DIR$/files/assets/sass/base/base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/files/assets/sass/components/components.iml" filepath="$PROJECT_DIR$/files/assets/sass/components/components.iml" />
+      <module fileurl="file://$PROJECT_DIR$/files/assets/css/css.iml" filepath="$PROJECT_DIR$/files/assets/css/css.iml" />
       <module fileurl="file://$PROJECT_DIR$/files/files.iml" filepath="$PROJECT_DIR$/files/files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/files/assets/js/js.iml" filepath="$PROJECT_DIR$/files/assets/js/js.iml" />
+      <module fileurl="file://$PROJECT_DIR$/files/assets/sass/layout/layout.iml" filepath="$PROJECT_DIR$/files/assets/sass/layout/layout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/files/assets/sass/libs/libs.iml" filepath="$PROJECT_DIR$/files/assets/sass/libs/libs.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/portfolio.iml" filepath="$PROJECT_DIR$/.idea/portfolio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/files/assets/sass/sass.iml" filepath="$PROJECT_DIR$/files/assets/sass/sass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/files/assets/webfonts/webfonts.iml" filepath="$PROJECT_DIR$/files/assets/webfonts/webfonts.iml" />
     </modules>
   </component>
 </project>
